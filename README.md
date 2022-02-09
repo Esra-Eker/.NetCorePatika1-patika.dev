@@ -1,0 +1,1 @@
+# .NetCorePatika1-patika.dev
