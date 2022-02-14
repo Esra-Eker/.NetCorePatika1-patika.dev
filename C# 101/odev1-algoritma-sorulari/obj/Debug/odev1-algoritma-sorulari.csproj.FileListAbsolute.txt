@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\odev1-algoritma-sorulari\bin\Debug\odev1-algoritma-sorulari.exe.config
+C:\Users\EKER\Desktop\CSharp\odev1-algoritma-sorulari\bin\Debug\odev1-algoritma-sorulari.exe
+C:\Users\EKER\Desktop\CSharp\odev1-algoritma-sorulari\bin\Debug\odev1-algoritma-sorulari.pdb
+C:\Users\EKER\Desktop\CSharp\odev1-algoritma-sorulari\obj\Debug\odev1-algoritma-sorulari.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\odev1-algoritma-sorulari\obj\Debug\odev1-algoritma-sorulari.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\odev1-algoritma-sorulari\obj\Debug\odev1-algoritma-sorulari.exe
+C:\Users\EKER\Desktop\CSharp\odev1-algoritma-sorulari\obj\Debug\odev1-algoritma-sorulari.pdb
