@@ -12,15 +12,19 @@ namespace odev1_algoritma_sorulari
         {
             Console.Write("Pozitif sayı girin: ");
             int n = Convert.ToInt32(Console.ReadLine());
+            int[] dizi = new int[n];
 
-            Console.WriteLine("Girdiğiniz sayı kadar pozitif sayı girin: ");
-
-            for (int i=1;i<=n;i++)
+            for (int i=0 ; i<n ; i++)
             {
-                int k = Convert.ToInt32(Console.ReadLine());
-                
-                if(k%2==0)
-                    Console.WriteLine(i);
+                Console.WriteLine("Lütfen {0}. sayıyı girin: ", i+1);
+                dizi[i] = int.Parse(Console.ReadLine());
+                  
+            }
+            Console.Write("Girdiğiniz çift sayılar: ");
+            for(int i=0; i<dizi.Length ; i++)
+            {
+                if (dizi[i] % 2 == 0)
+                    Console.Write(dizi[i] + "  " );
             }
             
             Console.ReadLine();
