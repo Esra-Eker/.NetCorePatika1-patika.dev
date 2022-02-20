@@ -1,0 +1,7 @@
+C:\Users\EKER\Desktop\CSharp\generic_koleksiyonlar_ve_list\bin\Debug\generic_koleksiyonlar_ve_list.exe.config
+C:\Users\EKER\Desktop\CSharp\generic_koleksiyonlar_ve_list\bin\Debug\generic_koleksiyonlar_ve_list.exe
+C:\Users\EKER\Desktop\CSharp\generic_koleksiyonlar_ve_list\bin\Debug\generic_koleksiyonlar_ve_list.pdb
+C:\Users\EKER\Desktop\CSharp\generic_koleksiyonlar_ve_list\obj\Debug\generic_koleksiyonlar_ve_list.csprojAssemblyReference.cache
+C:\Users\EKER\Desktop\CSharp\generic_koleksiyonlar_ve_list\obj\Debug\generic_koleksiyonlar_ve_list.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Desktop\CSharp\generic_koleksiyonlar_ve_list\obj\Debug\generic_koleksiyonlar_ve_list.exe
+C:\Users\EKER\Desktop\CSharp\generic_koleksiyonlar_ve_list\obj\Debug\generic_koleksiyonlar_ve_list.pdb
