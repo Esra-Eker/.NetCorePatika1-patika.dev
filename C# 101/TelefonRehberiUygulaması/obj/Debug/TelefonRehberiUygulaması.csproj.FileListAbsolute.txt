@@ -1,0 +1,13 @@
+C:\Users\Baris\Desktop\TelefonRehberiUygulaması\bin\Debug\TelefonRehberiUygulaması.exe.config
+C:\Users\Baris\Desktop\TelefonRehberiUygulaması\obj\Debug\TelefonRehberiUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Baris\Desktop\TelefonRehberiUygulaması\bin\Debug\TelefonRehberiUygulaması.exe
+C:\Users\Baris\Desktop\TelefonRehberiUygulaması\bin\Debug\TelefonRehberiUygulaması.pdb
+C:\Users\Baris\Desktop\TelefonRehberiUygulaması\obj\Debug\TelefonRehberiUygulaması.exe
+C:\Users\Baris\Desktop\TelefonRehberiUygulaması\obj\Debug\TelefonRehberiUygulaması.pdb
+C:\Users\EKER\Downloads\TelefonRehberiUygulaması\bin\Debug\TelefonRehberiUygulaması.exe.config
+C:\Users\EKER\Downloads\TelefonRehberiUygulaması\bin\Debug\TelefonRehberiUygulaması.exe
+C:\Users\EKER\Downloads\TelefonRehberiUygulaması\bin\Debug\TelefonRehberiUygulaması.pdb
+C:\Users\EKER\Downloads\TelefonRehberiUygulaması\obj\Debug\TelefonRehberiUygulaması.csprojAssemblyReference.cache
+C:\Users\EKER\Downloads\TelefonRehberiUygulaması\obj\Debug\TelefonRehberiUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\EKER\Downloads\TelefonRehberiUygulaması\obj\Debug\TelefonRehberiUygulaması.exe
+C:\Users\EKER\Downloads\TelefonRehberiUygulaması\obj\Debug\TelefonRehberiUygulaması.pdb
